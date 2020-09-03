@@ -1,2 +1,2 @@
 # hello-world
-Just tacos
+Just learning some of git
